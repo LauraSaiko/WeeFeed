@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxcwZiBdtZYQNHTPmjpIa8IS+2xKW+NufU+Et6hVC0MVlb3TqOqslEpEZn9ouDNem7UzSYE/AHIdkqhOWpz4hw==",
+  "success": true,
+  "projectFilePath": "/Users/laurazhou/Documents/GitHub/WeeFeed/WeeFeed/WeeFeed/WeeFeed.csproj",
+  "expectedPackageFiles": [
+    "/Users/laurazhou/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
+    "/Users/laurazhou/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/laurazhou/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/laurazhou/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/laurazhou/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/laurazhou/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/laurazhou/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
